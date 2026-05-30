@@ -2,6 +2,3 @@
 
 
 // Tools/ Library Manager (INSTALL RF24 by TMRh20)
-
-
-// Tools/ Library Manager (INSTALL ezButton by ArduinoGetStarted.com or ipdotsetaf)
