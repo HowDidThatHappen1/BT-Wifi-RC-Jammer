@@ -2,3 +2,7 @@
 
 
 // Tools/ Library Manager (INSTALL RF24 by TMRh20)
+
+Nrf24l01 1 (SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22)
+
+Nrf24l01 2 (SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 16)
